@@ -5,7 +5,7 @@
 <div align="center">
 
   ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/lowersoft/p2p/make-multi-platform.yml)
-  ![GitHub License](https://img.shields.io/github/license/lowersoft/p2p)
+  ![GitHub License](https://img.shields.io/github/license/lowersoft/p2p?v=1)
   ![GitHub Repo stars](https://img.shields.io/github/stars/lowersoft/p2p)
 
 </div>

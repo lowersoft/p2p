@@ -13,10 +13,18 @@
 LowerSoft P2P is a peer-to-peer networking library written in pure C. Rather than settling for the limitations of existing C P2P libraries, it provides a complete networking stack backed by thorough documentation and continuous development. The signaling server is not part of this repository and is available as a commercial product for developers at [lowersoft.com/p2p](lowersoft.com/p2p).<br>
 <sub>It serves as the networking foundation for LowerSoft’s commercial products and is under active development.</sub>
 
-Copyright (C) 2026 LoweSoft
+<hr>
+<div align="center">
+  <a href="#license">License</a>
+</div>
+<hr>
+
+### License
+
+Copyright (C) 2026 LowerSoft
 
 This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
+it under the terms of the [GNU General Public License](/LICENSE) as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
